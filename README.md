@@ -41,7 +41,7 @@ Wildfire-Detection-Using-Deep-Learning/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Wildfire-Detection-Using-Deep-Learning.git
+git clone https://github.com/gazanfar-ali/Wildfire-Detection-Using-Deep-Learning.git
 ```
 
 2. Install dependencies
