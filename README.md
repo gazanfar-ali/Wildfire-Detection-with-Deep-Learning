@@ -28,14 +28,19 @@ A Deep Learning project for binary image classification to detect **Fire** and *
 ```
 Wildfire-Detection-Using-Deep-Learning/
 │
+├── Dataset
+│   └──dataset_download.py
+├── Saved_model/
+│   └──saved_model.md
+├── Streamlit File/
+│   └── app.py
 ├── notebook/
 │   └── Wildfire_Detection.ipynb
-├── saved_models/
 ├── results/
 │   └── test1.png
 │   └── test2.png
-├── requirements.txt
-└── README.md
+├──  README.md
+└── requirements.txt
 ```
 
 ## 🚀 Getting Started
