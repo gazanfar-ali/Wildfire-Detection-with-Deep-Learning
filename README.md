@@ -32,6 +32,8 @@ Wildfire-Detection-Using-Deep-Learning/
 │   └── Wildfire_Detection.ipynb
 ├── saved_models/
 ├── results/
+│   └── test_img1
+│   └── test_img2
 ├── requirements.txt
 └── README.md
 ```
